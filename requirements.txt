@@ -1,5 +1,0 @@
-gradio
-rank_bm25
-sentence-transformers
-numpy
-huggingface_hub
